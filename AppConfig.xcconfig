@@ -1,0 +1,11 @@
+//
+//  AppConfig.xcconfig
+//  NGMovieDB
+//
+//  Created by Yogesh on 27.08.20.
+//  Copyright © 2020 Yogesh. All rights reserved.
+//
+
+API_KEY = 3e58e6f1bbb3d07a1823108b76805a7d
+API_BASE_URL = api.themoviedb.org
+RES_BASE_URL = image.tmdb.org
